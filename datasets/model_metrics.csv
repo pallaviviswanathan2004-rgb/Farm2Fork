@@ -1,0 +1,21 @@
+commodity,samples,logreg_test_acc,random_forest_test_acc
+Groundnut,1500,0.955,0.947
+Turmeric,1500,0.957,0.955
+Paddy,1500,0.971,0.949
+Wheat,1500,0.963,0.957
+Maize,1500,0.963,0.949
+Milk,1500,0.971,0.968
+Mango,1500,0.965,0.965
+Coconut,1500,0.976,0.971
+Banana,1500,0.979,0.979
+Tomato,1500,0.971,0.968
+Sugarcane,1500,0.96,0.957
+Red Chilli,1500,0.939,0.936
+Black Pepper,1500,0.973,0.976
+Cashew,1500,0.973,0.96
+Sesame,1500,0.963,0.963
+Mustard,1500,0.976,0.973
+Soybean,1500,0.955,0.952
+Honey,1500,0.957,0.949
+Tea,1500,0.955,0.957
+Coffee,1500,0.965,0.96

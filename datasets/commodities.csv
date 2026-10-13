@@ -1,0 +1,21 @@
+commodity,icon,raw_unit,common_adulteration,raw_shelf_days
+Groundnut,🥜,kg,Palm / cottonseed oil blending,180
+Turmeric,🌿,kg,Lead chromate / metanil yellow,180
+Paddy,🍚,kg,Stone / chalk / old-stock mixing,180
+Wheat,🌾,kg,Chalk / bran / low-grade flour mixing,180
+Maize,🌽,kg,Starch / dye adulteration,180
+Milk,🥛,L,Water / starch / urea,3
+Mango,🥭,kg,Calcium-carbide ripening,10
+Coconut,🥥,kg,Mineral-oil blending,180
+Banana,🍌,kg,Ethylene / carbide ripening,7
+Tomato,🍅,kg,Artificial colour / starch in processed forms,10
+Sugarcane,🎋,kg,Chemical bleaching / chalk,20
+Red Chilli,🌶️,kg,Sudan dye / brick powder,180
+Black Pepper,⚫,kg,Papaya seeds / light berries,180
+Cashew,🌰,kg,Old-stock / colour polishing,180
+Sesame,⚪,kg,Dye / foreign seed mixing,180
+Mustard,🟡,kg,Argemone oil / seed mixing,180
+Soybean,🫘,kg,Hexane residue / seed mixing,180
+Honey,🍯,kg,Sugar-syrup / HFCS addition,180
+Tea,🍵,kg,Dyed used-leaf / sawdust,180
+Coffee,☕,kg,Chicory / husk blending,180

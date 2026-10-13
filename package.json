@@ -1,0 +1,32 @@
+{
+  "name": "farm2fork",
+  "version": "3.0.0",
+  "description": "Ethereum + ML food supply chain traceability",
+  "scripts": {
+    "start": "node backend/server.js",
+    "node": "hardhat node",
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "deploy:local": "hardhat run scripts/deploy.js --network localhost",
+    "deploy:sepolia": "hardhat run scripts/deploy.js --network sepolia",
+    "ml": "python ml/app.py",
+    "ml:train": "python ml/train.py",
+    "test:ml": "python ml/test_ml.py"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "dotenv": "^16.4.5",
+    "hardhat": "^2.22.15"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.6",
+    "ethers": "^6.17.0",
+    "express": "^5.2.1",
+    "jsonwebtoken": "^9.0.3",
+    "mongoose": "^9.10.4"
+  }
+}

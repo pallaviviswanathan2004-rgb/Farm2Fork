@@ -1,0 +1,90 @@
+{
+ "features": [
+  "shelf_life_h",
+  "dur_farm",
+  "dur_processing",
+  "dur_distribution",
+  "dur_retail",
+  "temp_dev_max",
+  "lab_score",
+  "handler_reputation"
+ ],
+ "commodities": [
+  "Groundnut",
+  "Turmeric",
+  "Paddy",
+  "Wheat",
+  "Maize",
+  "Milk",
+  "Mango",
+  "Coconut",
+  "Banana",
+  "Tomato",
+  "Sugarcane",
+  "Red Chilli",
+  "Black Pepper",
+  "Cashew",
+  "Sesame",
+  "Mustard",
+  "Soybean",
+  "Honey",
+  "Tea",
+  "Coffee"
+ ],
+ "metrics": {
+  "rf": {
+   "accuracy": 0.766,
+   "f1": 0.643,
+   "auc": 0.826,
+   "brier": 0.1598
+  },
+  "xgb": {
+   "accuracy": 0.768,
+   "f1": 0.656,
+   "auc": 0.828,
+   "brier": 0.1587
+  },
+  "lgbm": {
+   "accuracy": 0.765,
+   "f1": 0.651,
+   "auc": 0.824,
+   "brier": 0.1603
+  },
+  "simple_average": {
+   "accuracy": 0.769,
+   "f1": 0.655,
+   "auc": 0.829,
+   "brier": 0.1579
+  },
+  "stacked": {
+   "accuracy": 0.769,
+   "f1": 0.655,
+   "auc": 0.829,
+   "brier": 0.1577
+  },
+  "stacked_calibrated": {
+   "accuracy": 0.769,
+   "f1": 0.654,
+   "auc": 0.829,
+   "brier": 0.1582
+  }
+ },
+ "rows": 40000,
+ "adulterated_share": 0.361,
+ "stack_weights": {
+  "rf": 0.535,
+  "xgb": 0.349,
+  "lgbm": 0.137
+ },
+ "anomaly_share_test": 0.028,
+ "importance": {
+  "shelf_life_h": 0.006,
+  "dur_farm": 0.077,
+  "dur_processing": 0.076,
+  "dur_distribution": 0.076,
+  "dur_retail": 0.074,
+  "temp_dev_max": 0.388,
+  "lab_score": 0.141,
+  "handler_reputation": 0.161
+ }
+}

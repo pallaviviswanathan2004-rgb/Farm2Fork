@@ -1,0 +1,64 @@
+product_id,commodity,product,unit,shelf_life_days,yield_ratio
+P001,Groundnut,Groundnut Oil,L,365,0.55
+P002,Groundnut,Peanut Butter,kg,270,0.9
+P003,Groundnut,Peanut Burfi,kg,30,0.6
+P004,Groundnut,Roasted Peanuts,kg,120,0.9
+P005,Turmeric,Turmeric Powder,kg,540,0.8
+P006,Turmeric,Turmeric Paste,kg,60,0.9
+P007,Turmeric,Curcumin Extract,kg,720,0.03
+P008,Paddy,Rice,kg,365,0.65
+P009,Paddy,Rice Flour,kg,180,0.6
+P010,Paddy,Poha,kg,240,0.55
+P011,Paddy,Puffed Rice,kg,120,0.5
+P012,Wheat,Wheat Flour,kg,120,0.75
+P013,Wheat,Semolina,kg,150,0.6
+P014,Wheat,Vermicelli,kg,240,0.8
+P015,Wheat,Bread,kg,4,1.2
+P016,Maize,Corn Flour,kg,365,0.8
+P017,Maize,Corn Oil,L,365,0.05
+P018,Maize,Cornflakes,kg,270,0.7
+P019,Maize,Popcorn,kg,180,0.95
+P020,Milk,Paneer,kg,7,0.15
+P021,Milk,Curd,kg,5,0.95
+P022,Milk,Butter,kg,90,0.05
+P023,Milk,Ghee,kg,270,0.04
+P024,Milk,Buttermilk,L,3,0.9
+P025,Mango,Mango Pulp,kg,180,0.6
+P026,Mango,Mango Juice,L,120,0.7
+P027,Mango,Mango Pickle,kg,365,0.8
+P028,Mango,Amchur,kg,365,0.1
+P029,Coconut,Coconut Oil,L,365,0.35
+P030,Coconut,Coconut Milk,L,180,0.5
+P031,Coconut,Desiccated Coconut,kg,180,0.3
+P032,Banana,Banana Chips,kg,90,0.3
+P033,Banana,Banana Flour,kg,180,0.2
+P034,Banana,Banana Pulp,kg,120,0.6
+P035,Tomato,Tomato Puree,kg,180,0.5
+P036,Tomato,Tomato Ketchup,kg,270,0.6
+P037,Tomato,Tomato Paste,kg,365,0.2
+P038,Sugarcane,Jaggery,kg,365,0.1
+P039,Sugarcane,Sugar,kg,730,0.1
+P040,Sugarcane,Sugarcane Juice,L,1,0.6
+P041,Red Chilli,Chilli Powder,kg,365,0.8
+P042,Red Chilli,Chilli Flakes,kg,365,0.9
+P043,Red Chilli,Chilli Sauce,kg,180,0.8
+P044,Black Pepper,Pepper Powder,kg,365,0.95
+P045,Black Pepper,Pepper Oleoresin,kg,730,0.05
+P046,Cashew,Cashew Kernels,kg,180,0.25
+P047,Cashew,Cashew Butter,kg,120,0.9
+P048,Cashew,Cashew Burfi,kg,20,0.5
+P049,Sesame,Sesame Oil,L,365,0.4
+P050,Sesame,Tahini,kg,180,0.9
+P051,Sesame,Sesame Chikki,kg,60,0.5
+P052,Mustard,Mustard Oil,L,365,0.33
+P053,Mustard,Mustard Powder,kg,365,0.9
+P054,Mustard,Mustard Sauce,kg,180,0.7
+P055,Soybean,Soy Oil,L,365,0.18
+P056,Soybean,Soy Milk,L,5,0.8
+P057,Soybean,Soy Chunks,kg,365,0.6
+P058,Honey,Raw Honey,kg,730,1.0
+P059,Honey,Creamed Honey,kg,365,0.95
+P060,Tea,Tea Powder,kg,365,0.25
+P061,Tea,Green Tea,kg,540,0.2
+P062,Coffee,Roasted Coffee,kg,270,0.8
+P063,Coffee,Instant Coffee,kg,540,0.2
